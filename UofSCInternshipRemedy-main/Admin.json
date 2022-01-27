@@ -1,0 +1,16 @@
+[
+    {
+        "id":"512fb9ae-651d-447f-92aa-6d0d361a1d4d",
+        "Name":"John Lighty",
+        "Password":"lightyjohn_",
+        "Email":"JohnLighty@email.com",
+        "Username":"JohnLight"
+    },
+    {
+        "id":"1bf41d98-fe32-4b1d-935c-0bccca06894a",
+        "Name":"Lola Rose",
+        "Password":"flowers@9pm",
+        "Email":"RoseLola@email.edu",
+        "Username":"LolaRose"
+    }
+]

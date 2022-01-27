@@ -1,0 +1,21 @@
+Name: Chloe Heaton
+Email: ChloeH@email.edu
+Skills: JavaScript, Python, 
+Education: 
+	High School Diploman	
+PreviousWork: 
+	Costco Stocker
+		Costco
+		Part-time
+		May 2020 - Jun 2020
+		Stock Shelves
+		Checkout customers
+	Casher
+		Walmart
+		Cashier
+		May 2021 - Jun 2021
+		Checkout Customers
+		Handle Money
+
+Location: Greenville, SC, 29601
+Phone Number: 9229229999
